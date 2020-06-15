@@ -13,12 +13,12 @@ Proposta di realizzazione di un progetto (agnostico a livello di tecnologie) per
 
 ## Use Cases Cittadino, Operatore e Amministratore   
 
-![Diagram](https://github.com/Magicianred/UfficioTecnicoGenerico//blob/master/Project/Diagrams/UseCases/UseCaseDiagram.png)  
-[drawio](https://github.com/Magicianred/UfficioTecnicoGenerico//blob/master/Project/Diagrams/UseCases/UseCaseDiagram.drawio)  
-[png](https://github.com/Magicianred/UfficioTecnicoGenerico//blob/master/Project/Diagrams/UseCases/UseCaseDiagram.png)
+![Diagram](https://github.com/Magicianred/UfficioTecnicoGenerico/blob/master/Project/Diagrams/UseCases/UseCaseDiagram.png)  
+[drawio](https://github.com/Magicianred/UfficioTecnicoGenerico/blob/master/Project/Diagrams/UseCases/UseCaseDiagram.drawio)  
+[png](https://github.com/Magicianred/UfficioTecnicoGenerico/blob/master/Project/Diagrams/UseCases/UseCaseDiagram.png)
 
 ## Use Cases CLI per generare app  
 
-![Diagram](https://github.com/Magicianred/UfficioTecnicoGenerico//blob/master/Project/Diagrams/UseCases/create-app-UseCaseDiagram.png)  
-[drawio](https://github.com/Magicianred/UfficioTecnicoGenerico//blob/master/Project/Diagrams/UseCases/create-app-UseCaseDiagram.drawio)  
-[png](https://github.com/Magicianred/UfficioTecnicoGenerico//blob/master/Project/Diagrams/UseCases/create-app-UseCaseDiagram.png)
+![Diagram](https://github.com/Magicianred/UfficioTecnicoGenerico/blob/master/Project/Diagrams/UseCases/create-app-UseCaseDiagram.png)  
+[drawio](https://github.com/Magicianred/UfficioTecnicoGenerico/blob/master/Project/Diagrams/UseCases/create-app-UseCaseDiagram.drawio)  
+[png](https://github.com/Magicianred/UfficioTecnicoGenerico/blob/master/Project/Diagrams/UseCases/create-app-UseCaseDiagram.png)
